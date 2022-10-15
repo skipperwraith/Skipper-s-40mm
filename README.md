@@ -7,7 +7,7 @@ Von: [skipperwraith](https://github.com/skipperwraith)
 
 ### Adds New Tech
 
-- Skipper's Munitions (Requires: Munitions Plant; or Skipper's Armoury)
+- Skipper's Munitions (Requires: Munitions Plant or Skipper's Armoury)
 
 ### Adds 5 New Cannons/Upgrades
 
