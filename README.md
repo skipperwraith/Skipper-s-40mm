@@ -4,11 +4,12 @@
 
 ## Ein Workshop-Objekt für Forts
 Von: [skipperwraith](https://github.com/skipperwraith)
-Adds New Tech
 
--Skipper's Munitions (Requires: Munitions Plant; or Skipper's Armoury)
+# Adds New Tech
 
-Adds 5 New Cannons/Upgrades
+- Skipper's Munitions (Requires: Munitions Plant; or Skipper's Armoury)
+
+# Adds 5 New Cannons/Upgrades
 
 - 40mm Cannon [6 Rounds Mag] (Gets Added as an Upgrade of the 20mm Cannon)(Seems Balanced)
 - 40mm Artillery [3 Rounds Mag, Splits Midair to give u more of that Artillery feeling] (Is An Further Upgrade of the 40mm Cannon above and the second upgrade of the 20mm, changes it fireangle to nearly T3)(Is currently weak)
