@@ -18,7 +18,7 @@ Von: [skipperwraith](https://github.com/skipperwraith)
 - Artillery-Cannon [Single Shot] (Is an Upgrade to the normal Cannon fires in a strict 45° Angle)
 
 ## YT-Videos featuring this Mod:
-Smash Gaming Frazz:
+### Smash Gaming Frazz:
 [![IMAGE_ALT](https://img.youtube.com/vi/-yNzsCEBumU/0.jpg)](https://www.youtube.com/watch?v=-yNzsCEBumU)
 
 
