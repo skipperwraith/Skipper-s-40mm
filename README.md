@@ -11,8 +11,8 @@ Von: [skipperwraith](https://github.com/skipperwraith)
 
 ### Adds 5 New Cannons/Upgrades
 
-- 40mm Cannon [6 Rounds Mag] (Gets Added as an Upgrade of the 20mm Cannon)(Seems Balanced)
-- 40mm Artillery [3 Rounds Mag, Splits Midair to give u more of that Artillery feeling] (Is An Further Upgrade of the 40mm Cannon above and the second upgrade of the 20mm, changes it fireangle to nearly T3)(Is currently weak)
+- 40mm Cannon [6 Rounds Mag] (Gets Added as an Upgrade of the 20mm Cannon)
+- 40mm Artillery [3 Rounds Mag, Splits midair to give u more of that Artillery feeling] (Is An Further Upgrade of the 40mm Cannon above and the second upgrade of the 20mm, changes it fireangle to nearly T3)
 - Big 40mm Cannon [Single Shot] 
 - Big 40mm Artillery [Single Shot, Splits Midair to give u more of that Artillery feeling]
 - Artillery-Cannon [Single Shot] (Is an Upgrade to the normal Cannon fires in a strict 45° Angle)
