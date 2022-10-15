@@ -1,6 +1,6 @@
 # Skipper's 40mm's 
 
-[![IMAGE_ALT](https://steamuserimages-a.akamaihd.net/ugc/772867190377865051/F20C58B117418E3C2CA896719E29CF060E907F1E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)]
+![IMAGE_ALT](https://steamuserimages-a.akamaihd.net/ugc/772867190377865051/F20C58B117418E3C2CA896719E29CF060E907F1E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 Ein Workshop-Objekt für Forts
 Von: skipperwraith
