@@ -1,0 +1,5 @@
+
+CommanderActivationDuration = CommanderActivationDuration*CommanderActivationDuration
+
+GaugeDamageHitpoints = GaugeDamageHitpoints*24
+GaugeAttackHitpoints = GaugeAttackHitpoints*24

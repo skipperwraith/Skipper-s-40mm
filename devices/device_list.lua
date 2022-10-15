@@ -1,0 +1,52 @@
+
+table.insert(Sprites, ButtonSprite("hud-munitionssw-icon", "HUD/HUD-Munitionssw", nil, ButtonSpriteBottom, nil, nil, path))
+table.insert(Sprites, DetailSprite("hud-detail-munitionssw", "HUD-Details-Munitionssw", path))
+
+table.insert(Devices, IndexOfDevice("munitions") + 1,
+{
+	SaveName = "munitionssw",
+	FileName = path .. "/devices/munitionssw.lua",
+	Icon = "hud-munitionssw-icon",
+	Detail = "hud-detail-munitionssw",
+	Prerequisite = "munitions",
+	BuildTimeComplete = 30,
+	ScrapPeriod = 8,
+	MetalCost = 400,
+	EnergyCost = 2500,
+	MetalRepairCost = 600,
+	EnergyRepairCost = 4000,
+	MetalReclaimMin = 0.25,
+	MetalReclaimMax = 0.5,
+	EnergyReclaimMin = 0.1,
+	EnergyReclaimMax = 0.5,
+	MaxUpAngle = 30,
+	BuildOnGroundOnly = false,
+	PopulationCap = 1,
+	IgnitePlatformOnDestruct = true,
+	SelectEffect = "ui/hud/technology/ui_technology",
+	Tech = true,
+})
+
+table.insert(Devices, IndexOfDevice("mine2") + 1,
+{
+	Enabled = false,
+	SaveName = "derrick40mmsw",
+	FileName = path .. "/devices/derrick40mmsw.lua",
+	Icon = "hud-derrick-icon",
+	Detail = "hud-detail-mine",
+	BuildTimeComplete = 30,
+	ScrapPeriod = 10,
+	MetalCost = 450,
+	EnergyCost = 3000,
+	MetalRepairCost = 200,
+	EnergyRepairCost = 1500,
+	MetalReclaimMin = 0.25,
+	MetalReclaimMax = 0.5,
+	EnergyReclaimMin = 0.1,
+	EnergyReclaimMax = 0.5,
+	MaxUpAngle = 30,
+	BuildOnOreOnly = true,
+	AlignToCursorNormal = false,
+	PopulationCap = 1,
+	SelectEffect = "ui/hud/devices/ui_devices",
+})
