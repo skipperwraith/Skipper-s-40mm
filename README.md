@@ -2,7 +2,7 @@
 
 [![IMAGE_ALT](https://steamuserimages-a.akamaihd.net/ugc/772867190377865051/F20C58B117418E3C2CA896719E29CF060E907F1E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=1885234184)
 
-## Ein Workshop-Objekt für Forts
+## A Workshop-Object for Forts
 Von: [skipperwraith](https://github.com/skipperwraith)
 
 ### Adds New Tech
